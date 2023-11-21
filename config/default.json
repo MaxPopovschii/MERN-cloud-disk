@@ -1,0 +1,7 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://popovschiimaximstudente:Dombk.if200598@cluster0.cwzdrgx.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secret-key",
+  "filePath": "C:\\Users\\Maxim\\WebstormProjects\\mern_cloud\\MERN-cloud-disk\\server\\files",
+  "staticPath": "C:\\Users\\Maxim\\WebstormProjects\\mern_cloud\\MERN-cloud-disk\\server\\static"
+}
